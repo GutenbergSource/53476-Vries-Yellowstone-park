@@ -1,0 +1,36 @@
+<images xmlns="http://www.gutenberg.ph/2006/schemas/imageinfo">
+<image path="images/book.png" filesize="364" filedate="2009-07-22 17:13:49" width="16px" height="16px">
+</image>
+<image path="images/card.png" filesize="249" filedate="2010-02-11 21:03:56" width="16px" height="11px">
+</image>
+<image path="images/einde.png" filesize="5411" filedate="2016-11-02 18:22:10" width="348px" height="112px">
+</image>
+<image path="images/external.png" filesize="172" filedate="2009-07-22 15:17:10" width="12px" height="12px">
+</image>
+<image path="images/frontispiece.jpg" filesize="94219" filedate="2016-11-02 18:45:21" width="720px" height="575px">
+</image>
+<image path="images/letter-d.png" filesize="3886" filedate="2016-11-02 18:36:32" width="142px" height="147px">
+</image>
+<image path="images/letter-h.png" filesize="3996" filedate="2016-11-02 18:34:30" width="143px" height="145px">
+</image>
+<image path="images/new-cover-tn.jpg" filesize="13144" filedate="2016-11-05 23:18:09" width="213px" height="320px">
+</image>
+<image path="images/new-cover.jpg" filesize="57291" filedate="2016-11-05 23:17:42" width="480px" height="720px">
+</image>
+<image path="images/ornament.png" filesize="2691" filedate="2016-11-02 18:24:52" width="586px" height="33px">
+</image>
+<image path="images/ornament2.png" filesize="2569" filedate="2016-11-02 18:29:02" width="196px" height="139px">
+</image>
+<image path="images/ornament3.png" filesize="676" filedate="2016-11-02 18:38:29" width="155px" height="21px">
+</image>
+<image path="images/ornament4.png" filesize="598" filedate="2016-11-02 18:40:28" width="104px" height="20px">
+</image>
+<image path="images/p088.jpg" filesize="72239" filedate="2016-11-02 18:49:38" width="720px" height="556px">
+</image>
+<image path="images/p105.jpg" filesize="85392" filedate="2016-11-02 19:09:16" width="546px" height="720px">
+</image>
+<image path="images/p107.jpg" filesize="94766" filedate="2016-11-02 19:12:47" width="720px" height="583px">
+</image>
+<image path="images/titlepage.png" filesize="25431" filedate="2016-11-02 18:18:54" width="441px" height="720px">
+</image>
+</images>
